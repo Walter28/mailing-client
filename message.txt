@@ -1,0 +1,7 @@
+Hey dude
+
+this is a mail send with python!
+
+say hello to walter28 the sender
+
+Kind regards!
